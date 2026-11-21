@@ -1,0 +1,5 @@
+# Python virtual environments (root and any subfolder)
+.venv/
+venv/
+**/.venv/
+**/venv/
